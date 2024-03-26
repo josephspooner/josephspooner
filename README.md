@@ -6,7 +6,7 @@
 ```json
 {
   "name": "Joseph",
-  "usernames": ["iNicollas", "Volwer"],
+  "usernames": ["Dayz", "zyaD"],
   "age": 23,
   "discord": "dayz000"
 }
