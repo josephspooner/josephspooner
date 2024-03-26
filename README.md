@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1>
+  <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50">
+  Hello, world!
+</h1>
 
-<!--
-**josephspooner/josephspooner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "name": "Joseph",
+  "usernames": ["iNicollas", "Volwer"],
+  "age": 23,
+  "discord": "dayz000"
+}
+```
 
-Here are some ideas to get you started:
+Developer at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   [**Vemto**](https://vemto.app/) - A complete studio and code generator for Laravel and PHP
+-   [**RapidMockup**](https://alpha.rapidmockup.net/) - Full-featured 3D mockups with the ability to customize the objects
+-   [**OrionCMS**](https://orionprojects.net/) - A modern and secure habbo CMS for Arcturus Emulator
+-   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP
+
+I use in my work:
+
+- **Laravel** (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, etc);
+- **VueJS 2 and 3**
+- **TailwindCSS**
+- **Bootstrap**
+- **Regular expressions**
+- **MySQL**
+- **AlpineJS**
+- Tests with **PHPUnit/Pest** and **Jest**
+- **BabylonJS** (3D Engine)
+- **SASS**
+- **Websocket** (SocketIO/native API)
+- ReactPHP
+
+Other knowledge: (not so in-depth, but that was once part of some job/hobby):
+
+- **Java**
+- **C#** (Unity Platform)
+- **React**
+- **Typescript**
+
+![](https://komarev.com/ghpvc/?username=nicollassilva&style=for-the-badge)
