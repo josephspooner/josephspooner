@@ -12,33 +12,13 @@
 }
 ```
 
-Developer at:
+Skills:
 
--   [**Vemto**](https://vemto.app/) - A complete studio and code generator for Laravel and PHP
--   [**RapidMockup**](https://alpha.rapidmockup.net/) - Full-featured 3D mockups with the ability to customize the objects
--   [**OrionCMS**](https://orionprojects.net/) - A modern and secure habbo CMS for Arcturus Emulator
--   [**HydraPHP**](https://github.com/nicollassilva/hydraphp) - A Habbo emulator made with PHP
-
-I use in my work:
-
-- **Laravel** (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, etc);
-- **VueJS 2 and 3**
-- **TailwindCSS**
+- **C++** (Livewire, Jetstream, Breeze, Nova, Cashier, Socialite, etc);
+- **C**
+- **C#**
 - **Bootstrap**
 - **Regular expressions**
 - **MySQL**
-- **AlpineJS**
-- Tests with **PHPUnit/Pest** and **Jest**
-- **BabylonJS** (3D Engine)
-- **SASS**
-- **Websocket** (SocketIO/native API)
-- ReactPHP
 
-Other knowledge: (not so in-depth, but that was once part of some job/hobby):
-
-- **Java**
-- **C#** (Unity Platform)
-- **React**
-- **Typescript**
-
-![](https://komarev.com/ghpvc/?username=nicollassilva&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=josephspooner&style=for-the-badge)
