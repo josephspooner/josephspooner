@@ -7,7 +7,7 @@
 {
   "name": "Joseph",
   "usernames": ["Dayz", "zyaD"],
-  "age": 23,
+  "age": 24,
   "discord": "dayz000"
 }
 ```
